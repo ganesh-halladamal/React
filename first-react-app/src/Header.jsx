@@ -30,7 +30,7 @@ const Header = () => {
       <Logo>Exclamatory Labs</Logo>
       <NavLinks>
         <NavLink>Home</NavLink>
-        <NavLink>About</NavLink>
+        <NavLink>About Us</NavLink>
         <NavLink>Services</NavLink>
         <NavLink>Contact</NavLink>
       </NavLinks>
