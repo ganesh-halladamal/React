@@ -1,0 +1,41 @@
+/* AboutUs.css */
+.about-us-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.about-us-content {
+  display: flex;
+  flex-direction: row;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.about-us-text {
+  flex: 1;
+  padding-right: 20px;
+}
+
+.about-us-text h2 {
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+
+.about-us-text p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+.about-us-image {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.about-us-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}

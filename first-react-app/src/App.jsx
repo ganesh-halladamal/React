@@ -4,6 +4,7 @@ import Header from './Header';
 import HeroSection from './HeroSection';
 import Services from './Services';
 import Footer from './Footer';
+import AboutUs from './AboutUs';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <div className="main-content">
         <HeroSection />
+        <AboutUs/>
         <Services />
       </div>
       <Footer />
