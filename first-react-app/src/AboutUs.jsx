@@ -1,6 +1,7 @@
 import React from "react";
 import "./AboutUs.css"; // Make sure to create this CSS file or use inline styles
 
+
 const AboutUs = () => {
   return (
     <div className="about-us-container">
@@ -19,7 +20,7 @@ const AboutUs = () => {
         </div>
         <div className="about-us-image">
           <img
-            src="first-react-app\src\jason-goodman-Oalh2MojUuk-unsplash.jpg"
+            src="/about.jpg"
             alt="About Us"
           />
         </div>
