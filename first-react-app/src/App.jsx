@@ -5,6 +5,7 @@ import HeroSection from './HeroSection';
 import Services from './Services';
 import Footer from './Footer';
 import AboutUs from './AboutUs';
+import TestimonialSection from './TestimonialSection';
 
 function App() {
   return (

@@ -10,6 +10,7 @@ function App() {
       <Header />
       <HeroSection />
       <Services />
+      <TestimonialSection />
       <Footer />
     </>
   );
