@@ -15,6 +15,8 @@ function App() {
         <HeroSection />
         <AboutUs/>
         <Services />
+        <TestimonialSection/>
+        
       </div>
       <Footer />
     </div>

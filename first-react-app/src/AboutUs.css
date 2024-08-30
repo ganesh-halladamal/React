@@ -73,6 +73,14 @@
   transform: translateY(-10px);
 }
 
+.testimonial-image {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
 .quote {
   font-style: italic;
   font-size: 1.2rem;
