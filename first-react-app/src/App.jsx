@@ -6,6 +6,7 @@ import Services from './Services';
 import Footer from './Footer';
 import AboutUs from './AboutUs';
 import TestimonialSection from './TestimonialSection';
+import ContactUs from './ContactUs';
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
         <AboutUs/>
         <Services />
         <TestimonialSection/>
-        
+        <ContactUs/>
       </div>
       <Footer />
     </div>
