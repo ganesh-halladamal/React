@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import ErrorMessage from "./components/ErrorMessage";
 function App() {
 
-  //let foodItems = ["Fruits and berries", "Eggs", "Meats", "Chicken breasts", "Nuts and seeds" ];
+  let foodItems = ["Fruits and berries", "Eggs", "Meats", "Chicken breasts", "Nuts and seeds" ];
 
   return (
     <>
