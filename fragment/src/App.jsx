@@ -8,9 +8,9 @@ function App() {
 
   return (
     <>
-    <h1>Healty Foods</h1>
-    <ErrorMessage></ErrorMessage>
-    <FoodItems></FoodItems>
+    <h1 className="food-heading">Healty Foods</h1>
+    <ErrorMessage items={foodItems}></ErrorMessage>
+    <FoodItems items={foodItems}></FoodItems>
     </>
   );
 }
